@@ -5,12 +5,19 @@ const STYLES = [
     "default",
     "outline",
     "text",
-    "disabled"
+    "disableShadow",
+    "disabled",
+    "startIcon",
+    "endIcon",
+    "primary",
+    "secondary",
+    "danger"
+
 ]
 
 const SIZES = [
-    "md",
     "sm",
+    "md",
     "lg"
 ]
 
